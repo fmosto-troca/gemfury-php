@@ -1,0 +1,14 @@
+{
+    "name": "trocafone/gemfury-php-test",
+    "description": "Gemfury php test",
+    "version": "0.0.1",
+    "require": {
+        "monolog/monolog": "2.0.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "GemfuryPHP\\": "src"
+        }
+    }
+}
