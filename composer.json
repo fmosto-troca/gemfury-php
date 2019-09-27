@@ -1,7 +1,7 @@
 {
     "name": "trocafone/gemfury-php-test",
     "description": "Gemfury php test",
-    "version": "0.1.0",
+    "version": "1.1.0",
     "require": {
         "monolog/monolog": "2.0.0"
     },
